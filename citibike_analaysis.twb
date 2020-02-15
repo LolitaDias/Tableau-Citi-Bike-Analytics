@@ -2225,6 +2225,17 @@
               <bucket>35124</bucket>
             </map>
           </encoding>
+          <encoding attr='color' field='[none:gender:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;Female&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Unknown&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Male&quot;</bucket>
+            </map>
+          </encoding>
           <encoding attr='color' field='[usr:Calculation_1233986315869491200:nk]' type='palette'>
             <map to='#309143'>
               <bucket>&quot;Peak Hour&quot;</bucket>
@@ -2245,17 +2256,6 @@
             </map>
             <map to='#ffda66'>
               <bucket>&quot;Normal Usage Hour&quot;</bucket>
-            </map>
-          </encoding>
-          <encoding attr='color' field='[none:gender:nk]' type='palette'>
-            <map to='#4e79a7'>
-              <bucket>&quot;Female&quot;</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>&quot;Unknown&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;Male&quot;</bucket>
             </map>
           </encoding>
         </style-rule>
@@ -3883,8 +3883,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='68' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='67' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='70' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='69' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone h='5250' id='17' type='title' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -4050,8 +4050,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1450' minheight='1450' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='51' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='50' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='53' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='52' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='49000' id='37' is-fixed='true' name='Today, what is the gender breakdown of active participants (Male v. Female)?' w='42600' x='800' y='1000'>
                   <layout-cache fixed-size-h='412' type-h='fixed' type-w='fixed' />
                   <zone-style>
@@ -4164,8 +4164,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='62' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='61' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='64' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='63' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
                 <zone h='5250' id='18' type='title' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -4264,8 +4264,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1200' minheight='1200' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='50' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='49' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='52' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='51' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='49000' id='1' is-fixed='true' name='Today, what are the top 10 stations in the city for starting a journey?' w='49200' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -4390,8 +4390,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='850' minheight='850' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='62' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='61' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='64' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='63' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone h='5250' id='18' type='title' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -4496,8 +4496,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='38' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='37' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='40' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='39' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='49000' id='5' is-fixed='true' name='How has the proportion of short-term customers and annual subscribers changed?' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
