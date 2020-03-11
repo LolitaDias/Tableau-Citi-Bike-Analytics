@@ -35,7 +35,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 10. Today, what is the gender breakdown of active participants (Male v. Female)?
 
-* How effective has gender outreach been in increasing female ridership over the timespan?
+11. How effective has gender outreach been in increasing female ridership over the timespan?
 
 * How does the average trip duration change by age?
 
