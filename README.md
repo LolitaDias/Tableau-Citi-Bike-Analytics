@@ -12,7 +12,6 @@ However, while the data has been regularly updated, the team has yet to implemen
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
 
 
-
 ## Task
 
 **Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.** 
