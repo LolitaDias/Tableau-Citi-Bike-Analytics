@@ -13,7 +13,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ## Task
 
-**The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
+**The following are some of the questions we have tried to tackle as a part of this assignment. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
 
 * How many trips have been recorded total during the chosen period?
 
