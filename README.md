@@ -27,7 +27,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 6. Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
 
-* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
+7. Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
 
 * Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
 
