@@ -25,7 +25,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 5. What are the peak hours in which bikes are used during winter months?
 
-* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
+6. Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
 
 * Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
 
