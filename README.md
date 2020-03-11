@@ -19,7 +19,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 2. By what percentage has total ridership grown?
 
-* How has the proportion of short-term customers and annual subscribers changed?
+3. How has the proportion of short-term customers and annual subscribers changed?
 
 * What are the peak hours in which bikes are used during summer months?
 
