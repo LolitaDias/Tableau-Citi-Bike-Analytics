@@ -17,7 +17,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 1. How many trips have been recorded total during the chosen period?
 
-* By what percentage has total ridership grown?
+2. By what percentage has total ridership grown?
 
 * How has the proportion of short-term customers and annual subscribers changed?
 
