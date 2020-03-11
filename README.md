@@ -41,7 +41,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 13. What is the average distance in miles that a bike is ridden?
 
-* Which bikes (by ID) are most likely due for repair or inspection in the timespan?
+14. Which bikes (by ID) are most likely due for repair or inspection in the timespan?
 
 * How variable is the utilization by bike ID?
 
