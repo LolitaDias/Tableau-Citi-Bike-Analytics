@@ -43,7 +43,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 14. Which bikes (by ID) are most likely due for repair or inspection in the timespan?
 
-* How variable is the utilization by bike ID?
+15. How variable is the utilization by bike ID?
 
 **Next, as a chronic over-achiever:**
 
