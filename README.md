@@ -15,7 +15,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 **The following are some of the questions we have tried to tackle as a part of this assignment.
 
-* How many trips have been recorded total during the chosen period?
+1. How many trips have been recorded total during the chosen period?
 
 * By what percentage has total ridership grown?
 
