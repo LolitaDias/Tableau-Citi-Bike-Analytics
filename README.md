@@ -39,7 +39,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 12. How does the average trip duration change by age?
 
-* What is the average distance in miles that a bike is ridden?
+13. What is the average distance in miles that a bike is ridden?
 
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan?
 
